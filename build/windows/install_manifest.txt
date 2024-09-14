@@ -1,0 +1,12 @@
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/flutter_secure_storage_windows_plugin.dll
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/plyqu/Projects/my_flutter/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

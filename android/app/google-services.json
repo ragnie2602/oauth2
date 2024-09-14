@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377815728226",
+    "project_id": "myoauth2-73295",
+    "storage_bucket": "myoauth2-73295.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377815728226:android:3a67b4223d70a2a58ed13b",
+        "android_client_info": {
+          "package_name": "com.eztek.trueconnect"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377815728226-1jpa8glrn7rk9vfu6n18vrrd3kd4gi25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eztek.trueconnect",
+            "certificate_hash": "87f5f2e707714be7f7c13286201cbd88ef6d56bd"
+          }
+        },
+        {
+          "client_id": "377815728226-a37q5ph94mouf8q4ft5odvsjoebb2s7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN0DpSjgUSv-NIELNYoF8bp5BnN2ExmPI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377815728226-a37q5ph94mouf8q4ft5odvsjoebb2s7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
